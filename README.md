@@ -1,3 +1,6 @@
+Running this program requires setting up google calender API and the associated permissions. 
+
+
 Install the Google client library for Python:
 
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
@@ -14,6 +17,3 @@ Install DateTime:
 
 pip install DateTime
 
-Install pytz: 
-
-pip install pytz
